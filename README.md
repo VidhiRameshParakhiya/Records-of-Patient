@@ -8,27 +8,27 @@
 # Functional viewpoint
 Register new patient<br>
 Update patients follow-ups<br> 
-Recording treatments history<br>
+Records treatments history<br>
 Monitor everyday checkup<br>
 sharing the records of patient to doctors<br>
 
 # Business process viewpoint
-Appointment scheduling<br>
+Appointment schedulling<br>
 Billing and payment<br>
 Reporting<br>
 
 # Information Viewpoint
 Stores patient information<br>
 Stores patients medical performance<br>
-stores updation of patients<br>
-stores communication between doctor and patient<br>
-stores any critical emergency or past health history<br>
+Stores updation of patients<br>
+Stores communication between doctor and patient<br>
+Stores any critical emergency or past health history<br>
 
 # Database storage viewpoint
-User interface-interaction with users<br>
-databse-where patients data is stored<br>
-server-where system runs<br>
-Integration-System interaction with patients and services<br>
+User interface-(interaction with users)<br>
+Database-(where patients data is stored)<br>
+server-(where system runs)<br>
+Integration-(System interaction with patients and services)<br>
 
 # Behavioral viewpoint
 User interaction-describes the interaction between the system and checks validation and feedback<br> 
