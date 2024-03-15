@@ -12,6 +12,11 @@ Recording treatments history<br>
 Monitor everyday checkup<br>
 sharing the records of patient to doctors<br>
 
+# Business process viewpoint
+Appointment scheduling<br>
+Billing and payment<br>
+Reporting<br>
+
 # Information Viewpoint
 Stores patient information<br>
 Stores patients medical performance<br>
@@ -19,7 +24,7 @@ stores updation of patients<br>
 stores communication between doctor and patient<br>
 stores any critical emergency or past health history<br>
 
-# Database storage
+# Database storage viewpoint
 User interface-interaction with users<br>
 databse-where patients data is stored<br>
 server-where system runs<br>
@@ -33,5 +38,6 @@ Communication-How fast API is calling back and gives the response.<br>
 # Security viewpoint
 Acess control-Restricts the sensitive data (password,patients personal information)<br>
 Encrytion-need to encrypt data such as password<br>
+
 
 
