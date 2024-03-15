@@ -6,7 +6,7 @@
 
 
 # Functional viewpoint
-Register new patient
+Register new patient<br>
 Update patients follow-ups 
 Recording treatments history
 Monitor everyday checkup
